@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Arnaud! 👋
 
-<!--
-**crosf32/crosf32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer 💻 | Sports Enthusiast 🏋️‍♂️ | Food Lover 🍔**
 
-Here are some ideas to get you started:
+### 🚀 What I'm building
+I love bringing ideas to life. Check out some of my main projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **[SportSpots]** - *(Discover the best local sports spots and connect with partners for your next workout or game)*
+* **[DansLeMeal]** - *(An intuitive meal planner designed to hit the bullseye on your weekly cravings and prep)*
+* **[Hymarket.fr]** - *(An Hytale marketplace)*
+
+💻・Stack : 
+
+[Click me]([http://www.google.com](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/discord.svg))
+<button name="button" onclick="http://www.google.com">Click me</button>
+[button url="https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/discord.svg"]
+
+📫 **Let's connect:** *(Discord: crosf32)*
